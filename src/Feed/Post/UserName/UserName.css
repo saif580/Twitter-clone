@@ -1,0 +1,10 @@
+.post__headerSpecial {
+    font-weight: 600;
+    font-size: 12px;
+    color: gray;
+  }
+  
+  .post__headerText h3 {
+    font-size: 15px;
+    margin-bottom: 5px;
+  }

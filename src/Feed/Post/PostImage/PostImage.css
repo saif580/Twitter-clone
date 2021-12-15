@@ -1,0 +1,6 @@
+.post__body img {
+    width: 450px;
+    object-fit: contain;
+    border-radius: 20px;
+  }
+  
